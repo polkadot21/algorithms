@@ -1,7 +1,7 @@
 # Exercises in algorithms
 
 This repository contains the exercises in algorithms and data structures from the renowned book of Mr. M.T. Goodrich 
-"Data Structures and Algorithms".
+"Data Structures and Algorithms in Python".
 
 ## Usage
 
