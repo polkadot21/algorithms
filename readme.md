@@ -7,7 +7,7 @@ This repository contains the exercises in algorithms and data structures from th
 
 ```bash
 #allow access
-chmod -x /.setup.sh
+chmod +x /.setup.sh
 
 # setup
 /.setup.sh
